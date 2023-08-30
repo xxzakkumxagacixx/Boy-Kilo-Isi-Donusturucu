@@ -1,4 +1,4 @@
-# Boy-Kilo-Isi-Donusturucu
+# Boy Kilo ve Isı Dönüştürücü
 Çok amaçlı bir uygulama :)
 # BİRBİRİNE DÖNÜŞTÜREBİLECEĞİNİZ VERİLER
 - CM ve FEET
